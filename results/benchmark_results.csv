@@ -1,0 +1,4 @@
+policy,total_accesses,reads,writes,l1_read_hits,l1_read_misses,l1_write_hits,l1_write_misses,l1_hit_rate,l1_miss_rate,l2_read_hits,l2_read_misses,l2_write_hits,l2_write_misses,l2_hit_rate,l2_miss_rate,amat,total_cycles,stall_cycles,runtime_ms
+LRU,5000,3676,1324,2957,719,1056,268,80.2600,19.7400,72,647,22,246,9.5238,90.4762,24.2288,121144,101144,1.2177
+FIFO,5000,3676,1324,2880,796,1030,294,78.2000,21.8000,149,647,48,246,18.0734,81.9266,24.4760,122380,102380,1.8173
+RANDOM,5000,3676,1324,2912,764,1026,298,78.7600,21.2400,117,647,52,246,15.9134,84.0866,24.4088,122044,102044,1.4179

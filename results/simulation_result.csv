@@ -1,0 +1,2 @@
+policy,total_accesses,reads,writes,l1_read_hits,l1_read_misses,l1_write_hits,l1_write_misses,l1_hit_rate,l1_miss_rate,l2_read_hits,l2_read_misses,l2_write_hits,l2_write_misses,l2_hit_rate,l2_miss_rate,amat,total_cycles,stall_cycles,runtime_ms
+LRU,300,213,87,110,103,35,52,48.3333,51.6667,0,103,0,52,0.0000,100.0000,61.8667,18560,17360,0.0000
